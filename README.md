@@ -1,2 +1,1 @@
-# Static-Time-Analysis
-Static Time Analysis
+# Timing Models in ASIC Design
